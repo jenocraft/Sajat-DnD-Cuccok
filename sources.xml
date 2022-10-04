@@ -5,7 +5,7 @@
 			<file name="sources.xml" url="https://raw.githubusercontent.com/jenocraft/Sajat-DnD-Cuccok/main/sources.xml" />
 		</update>
 	</info>
-	<element name="Saját cuccok" type="source" source="core" id="ID_HOMEBREW_SOURCE_SAJAT_CUCCOK">
+	<element name="Saját cuccok" type="Source" source="Core" id="ID_HOMEBREW_SOURCE_SAJAT_CUCCOK">
 		<description>
 			<![CDATA[<p> Cuccok random NPC karakterekhez </p>]]>
 		</description>
