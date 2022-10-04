@@ -5,7 +5,7 @@
 <file name="sources.xml" url=" " />
 		</update>
 	</info>
-	<element name="D&amp;D Wiki" type="Source" source="D&amp;D Wiki" id="ID_HOMEBREW_SOURCE_DND_WIKI">
+	<element name="Saját cuccok" type="Source" source="" id="ID_HOMEBREW_SOURCE_SAJAT_CUCCOK">
 		<description>
 			<![CDATA[<p></p>]]>
 		</description>
