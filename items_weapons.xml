@@ -11,11 +11,13 @@
 	<element name="Valory's longsword" type="Magic Item" source="Saját cuccok" id="ID_VALORY_LONGSWORD_MAGIC_ITEM">
 		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_SLASHING, ID_INTERNAL_WEAPON_PROPERTY_VERSATILE, ID_INTERNAL_WEAPON_GROUP_SWORDS</supports>
 		<description>
-			<p>HU: Valory vámpír hercegnő saját kardja.</p>
-			<p>EN: Princess Valory's personal longsword. </p>
+			<p>HU: Valory vámpír hercegnő saját kardja, amit apja kovácsolt neki. Erejét egy démontól kapta, amit egyik kaladja során vett érszre.</p>
+			<p>EN: Vampire Princess Valory's personal longsword. </p>
 		</description>
 		<setters>
 			<set name="category">Magic Weapons</set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
 			<set name="cost" currency="gp">1000000</set>
 			<set name="rarity">Arifact</set>
 			<set name="weight" lb="4.6">4.6 lb.</set>
