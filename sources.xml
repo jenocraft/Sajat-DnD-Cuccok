@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.0.1">
+<file name="sources.xml" url=" " />
+		</update>
+	</info>
+	<element name="D&amp;D Wiki" type="Source" source="D&amp;D Wiki" id="ID_HOMEBREW_SOURCE_DND_WIKI">
+		<description>
+			<![CDATA[<p></p>]]>
+		</description>
+		<setters>
+			<set name="abbreviation">APS</set>
+			<set name="url"> </set>
+			<set name="author">Al'Dunn</set>
+			<set name="Saját lorehoz cuccok">true</set>
+			<set name="release">20221004</set>
+		</setters>
+	</element>
+</elements>
