@@ -9,6 +9,6 @@
 		</update>
 	</info>
 	<files>
-			<file name="item_gears.xml" url=" " />
+			<file name="items_weapons.xml" url="https://raw.githubusercontent.com/jenocraft/Sajat-DnD-Cuccok/main/items_weapons.xml" />
 	</files>
 </index>
