@@ -5,7 +5,7 @@
 		<description> NPCkhez fegyverek</description>
 		<author>Al'Dunn</author>
 		<update version="0.1">
-			<file name="items_weapons.xml" url=""https://raw.githubusercontent.com/jenocraft/Sajat-DnD-Cuccok/main/items_weapons.xml" />
+			<file name="items_weapons.xml" url="https://raw.githubusercontent.com/jenocraft/Sajat-DnD-Cuccok/main/items_weapons.xml" />
 		</update>
 	</info>
 	<element name="Valory's longsword" type="Magic Item" source="Saját cuccok" id="ID_VALORY_LONGSWORD_MAGIC_ITEM">
