@@ -2,16 +2,17 @@
 <elements>
 	<info>
 		<name>Special Weapons</name>
-		<description></description>
+		<description> NPCkhez fegyverek</description>
 		<author>Al'Dunn</author>
 		<update version="0.1">
-			<file name="items_weapons.xml" url="Saját cuccok" />
+			<file name="items_weapons.xml" url=""https://raw.githubusercontent.com/jenocraft/Sajat-DnD-Cuccok/main/items_weapons.xml" />
 		</update>
 	</info>
-	<element name="Valory's longsword" type="Magic Item" source=" " id="ID_VALORY_LONGSWORD_MAGIC_ITEM">
+	<element name="Valory's longsword" type="Magic Item" source="Saját cuccok" id="ID_VALORY_LONGSWORD_MAGIC_ITEM">
+		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_SLASHING, ID_INTERNAL_WEAPON_PROPERTY_VERSATILE, ID_INTERNAL_WEAPON_GROUP_SWORDS</supports>
 		<description>
 			<p>HU: Valory vámpír hercegnő saját kardja.</p>
-			<p>EN: Valory princess personal longsword </p>
+			<p>EN: Princess Valory's personal longsword. </p>
 		</description>
 		<setters>
 			<set name="category">Magic Weapons</set>
