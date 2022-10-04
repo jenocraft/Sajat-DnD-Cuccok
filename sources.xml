@@ -2,12 +2,12 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-<file name="sources.xml" url=" " />
+			<file name="sources.xml" url=" " />
 		</update>
 	</info>
 	<element name="Saját cuccok" type="Source" source="" id="ID_HOMEBREW_SOURCE_SAJAT_CUCCOK">
 		<description>
-			<![CDATA[<p></p>]]>
+			<![CDATA[<p> Cuccok random NPC karakterekhez </p>]]>
 		</description>
 		<setters>
 			<set name="abbreviation">APS</set>
