@@ -5,10 +5,10 @@
 		<description>Minden amivel szenvedni akarok.</description>
 		<author>Al'Dunn</author>
 		<update version="0.1">
-			<file name="sajat-cuccok.index" url=" "/>
+			<file name="sajat-cuccok.index" url="https://raw.githubusercontent.com/jenocraft/Sajat-DnD-Cuccok/main/sajat-cuccok.index"/>
 		</update>
 	</info>
 	<files>
-			<file name="weapons.index" url=" " />
+			<file name="item_gears.xml" url=" " />
 	</files>
 </index>
