@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Saját cuccok</name>
+		<description>Minden amivel szenvedni akarok.</description>
+		<author>Al'Dunn</author>
+		<update version="0.1">
+			<file name="sajat-cuccok.index" url=" "/>
+		</update>
+	</info>
+	<files>
+			<file name="weapons.index" url=" " />
+	</files>
+</index>
