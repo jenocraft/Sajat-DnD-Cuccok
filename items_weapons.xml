@@ -16,12 +16,13 @@
 		</description>
 		<setters>
 			<set name="category">Magic Weapons</set>
-			<set name="cost" currency="gp">0</set>
-			<set name="type" addition="any">Weapon</set>
+			<set name="cost" currency="gp">1000000</set>
 			<set name="rarity">Arifact</set>
-			<set name="enhancement">1</set>
-			<set name="weapon">ID_INTERNAL_WEAPON_GROUP_SWORDS</set>
-			<set name="name-format">{{parent}} +{{enhancement}}</set>
+			<set name="weight" lb="4.6">4.6 lb.</set>
+			<set name="slot">onehand</set>
+			<set name="damage" type="slashing">3d8</set>
+			<set name="versatile">2d10</set>
+			<set name="proficiency">ID_PROFICIENCY_WEAPON_PROFICIENCY_LONGSWORD</set>
 		</setters>
 	</element>
 </elements>
