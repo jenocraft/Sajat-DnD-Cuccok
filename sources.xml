@@ -15,6 +15,7 @@
 			<set name="author">Al'Dunn</set>
 			<set name="Saját lorehoz cuccok">true</set>
 			<set name="incomplete">true</set>
+			<set name="homebrew">true</set>
 			<set name="release">20221004</set>
 		</setters>
 	</element>
