@@ -8,7 +8,7 @@
 			<file name="items_weapons.xml" url="Saját cuccok" />
 		</update>
 	</info>
-	<element name="Valory's longsword" type="Magic Item" source=" " id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1">
+	<element name="Valory's longsword" type="Magic Item" source=" " id="ID_VALORY_LONGSWORD_MAGIC_ITEM">
 		<description>
 			<p>HU: Valory vámpír hercegnő saját kardja.</p>
 			<p>EN: Valory princess personal longsword </p>
